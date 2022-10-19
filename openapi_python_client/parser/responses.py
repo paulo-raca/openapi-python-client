@@ -26,6 +26,7 @@ _SOURCE_BY_CONTENT_TYPE = {
     "application/vnd.api+json": "response.json()",
     "application/octet-stream": "response.content",
     "text/html": "response.text",
+    "text/plain": "response.text",
 }
 
 
